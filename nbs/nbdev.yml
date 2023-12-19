@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "devosophy"
+  site-url: "https://deven367.github.io/devosophy"
+  description: "personal repo for custom python utils"
+  repo-branch: main
+  repo-url: "https://github.com/deven367/devosophy"
