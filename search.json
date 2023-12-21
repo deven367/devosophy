@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "devosophy",
+    "section": "",
+    "text": "The goal of this repo is to have personal python utils in a single place and keep it as simple as possible minimizing the use of external libraries wherever possible."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "devosophy",
+    "section": "Install",
+    "text": "Install\npip install devosophy"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "devosophy",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo2\n\n foo2 (a)\n\nDocstring\n\n\n\n\nType\nDetails\n\n\n\n\na\n\ntest\n\n\nReturns\nint\nReturn type documentation\n\n\n\n\nsource\n\n\nfoo1\n\n foo1 ()\n\nDocstring"
+  }
+]
