@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://deven367.github.io',
                 'git_url': 'https://github.com/deven367/devosophy',
                 'lib_path': 'devosophy'},
-  'syms': {'devosophy.core': {'devosophy.core.foo': ('core.html#foo', 'devosophy/core.py')}}}
+  'syms': { 'devosophy.core': { 'devosophy.core.foo1': ('core.html#foo1', 'devosophy/core.py'),
+                                'devosophy.core.foo2': ('core.html#foo2', 'devosophy/core.py')}}}
