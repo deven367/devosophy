@@ -6,4 +6,9 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/deven367/devosophy',
                 'lib_path': 'devosophy'},
   'syms': { 'devosophy.core': { 'devosophy.core.foo1': ('core.html#foo1', 'devosophy/core.py'),
-                                'devosophy.core.foo2': ('core.html#foo2', 'devosophy/core.py')}}}
+                                'devosophy.core.foo2': ('core.html#foo2', 'devosophy/core.py')},
+            'devosophy.data': { 'devosophy.data.DatasetWithStride': ('data.html#datasetwithstride', 'devosophy/data.py'),
+                                'devosophy.data.DatasetWithStride.__getitem__': ( 'data.html#datasetwithstride.__getitem__',
+                                                                                  'devosophy/data.py'),
+                                'devosophy.data.DatasetWithStride.__init__': ('data.html#datasetwithstride.__init__', 'devosophy/data.py'),
+                                'devosophy.data.DatasetWithStride.__len__': ('data.html#datasetwithstride.__len__', 'devosophy/data.py')}}}
